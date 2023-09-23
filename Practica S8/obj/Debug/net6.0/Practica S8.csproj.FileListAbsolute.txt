@@ -1,0 +1,15 @@
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\bin\Debug\net6.0\Practica S8.exe
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\bin\Debug\net6.0\Practica S8.deps.json
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\bin\Debug\net6.0\Practica S8.runtimeconfig.json
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\bin\Debug\net6.0\Practica S8.dll
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\bin\Debug\net6.0\Practica S8.pdb
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.csproj.AssemblyReference.cache
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.AssemblyInfoInputs.cache
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.AssemblyInfo.cs
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.dll
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\refint\Practica S8.dll
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.pdb
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\Practica S8.genruntimeconfig.cache
+C:\Users\ALUMNO.CC1PC15-16\Desktop\Practica S8\obj\Debug\net6.0\ref\Practica S8.dll
